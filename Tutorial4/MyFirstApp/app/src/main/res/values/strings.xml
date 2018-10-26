@@ -3,4 +3,7 @@
     <string name="edit_message">Enter a location</string>
     <string name="button_send">Send</string>
     <string name="title_activity_display_message">My Message</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">See map</string>
+    <string name="county">Print Admin Level 2</string>
 </resources>
